@@ -8,9 +8,8 @@
             "projectRoot": "${workspaceRoot}",
             "packageFileName": "${command:resolvePackageFileName}",                                                                        
             "server": "http://localhost",
-            "serverInstance": "Navision_main",                
-            "tenant": "default",
-            "windowsAuthentication": true                        
+            "serverInstance": "navision_main",                
+            "windowsAuthentication": true
         }
     ]
 }
